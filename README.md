@@ -20,3 +20,7 @@ A hardware test comparing the efficiency of a 2N2222 BJT and a TIP122 Darlington
 | **Transistor Heat (Wasted)**| 10.5 mW (0.01 W) | 92.4 mW (0.09 W) | TIP122 burns nearly 9x more power as heat, which is why it felt mildly warm to the touch. |
 | **Total Circuit Efficiency**| **~98 %** | **~84 %** | **The Winner: 2N2222 is significantly more efficient for this low-voltage 5V application.** |
 | **Effective Power Bank Supply**| ~4.28 V to 4.36 V | ~4.41 V to 4.47 V | Shows slight natural voltage variations from your power bank while under different load strains. |
+
+https://github.com/user-attachments/assets/e0ab9e4e-c5e1-4eb2-8449-ba5096917f1e
+
+https://github.com/user-attachments/assets/89070e98-25c4-4bdb-ac33-1769f0ecb0e4
